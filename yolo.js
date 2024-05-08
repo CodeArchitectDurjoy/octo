@@ -1,0 +1,4 @@
+class Yolo{
+Console.log();
+
+}
