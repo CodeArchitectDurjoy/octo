@@ -1,1 +1,6 @@
-Console.log("HI DURJOY");
+class name {
+  constructor(parameters) {}
+  set{
+    
+  }
+}
